@@ -1,9 +1,9 @@
 {
 	"SourceFiles": [
-		"/home/long/Desktop/Spring2023/CPSC 491/proj/Typopatamus/Hippopatamus/Plugins/UEHttpGPT-main/Source/HttpGPTImageModule/HttpGPTImageModule.Build.cs",
-		"/home/long/Desktop/Spring2023/CPSC 491/proj/Typopatamus/Hippopatamus/Plugins/UEHttpGPT-main/Source/HttpGPTEditorModule/HttpGPTEditorModule.Build.cs",
-		"/home/long/Desktop/Spring2023/CPSC 491/proj/Typopatamus/Hippopatamus/Plugins/UEHttpGPT-main/Source/HttpGPTChatModule/HttpGPTChatModule.Build.cs",
-		"/home/long/Desktop/Spring2023/CPSC 491/proj/Typopatamus/Hippopatamus/Plugins/UEHttpGPT-main/Source/HttpGPTCommonModule/HttpGPTCommonModule.Build.cs"
+		"/home/long/Desktop/Spring2023/CPSC 491/ProjectTypopatamus/Hippopatamus/Plugins/UEHttpGPT-main/Source/HttpGPTEditorModule/HttpGPTEditorModule.Build.cs",
+		"/home/long/Desktop/Spring2023/CPSC 491/ProjectTypopatamus/Hippopatamus/Plugins/UEHttpGPT-main/Source/HttpGPTChatModule/HttpGPTChatModule.Build.cs",
+		"/home/long/Desktop/Spring2023/CPSC 491/ProjectTypopatamus/Hippopatamus/Plugins/UEHttpGPT-main/Source/HttpGPTImageModule/HttpGPTImageModule.Build.cs",
+		"/home/long/Desktop/Spring2023/CPSC 491/ProjectTypopatamus/Hippopatamus/Plugins/UEHttpGPT-main/Source/HttpGPTCommonModule/HttpGPTCommonModule.Build.cs"
 	],
 	"EngineVersion": "5.1.1"
 }
