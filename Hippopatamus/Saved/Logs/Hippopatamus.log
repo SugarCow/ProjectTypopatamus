@@ -6434,3 +6434,6 @@ Script Stack (0 frames) :
 [2023.04.13-04.41.02:790][ 62]AssetCheck: New page: Asset Save: BP_Player
 [2023.04.13-04.41.02:790][ 62]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprint/BP_Player.BP_Player
 [2023.04.13-04.41.03:693][140]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2023.04.13-04.41.57:667][602]LogCore: Error: appError called: Assertion failed: !GIsRHIInitialized || !GRHISupportsRHIThread [File:Runtime/RHI/Public/RHIStaticStates.h] [Line: 102] 
+
+
