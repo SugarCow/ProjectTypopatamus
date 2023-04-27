@@ -19,6 +19,7 @@
 				"C:/Users/Long/OneDrive/Desktop/D/Spring2023/CPSC 491/proj/ProjectTypopatamus/ProjectTypopatamusII/Content/TestLevel3.umap",
 				"C:/Users/Long/OneDrive/Desktop/D/Spring2023/CPSC 491/proj/ProjectTypopatamus/ProjectTypopatamusII/Content/Blueprint/WBP_PlayerChargeBar.uasset",
 				"C:/Users/Long/OneDrive/Desktop/D/Spring2023/CPSC 491/proj/ProjectTypopatamus/ProjectTypopatamusII/Content/Blueprint/WBP_GameOver.uasset",
+				"C:/Users/Long/OneDrive/Desktop/D/Spring2023/CPSC 491/proj/ProjectTypopatamus/ProjectTypopatamusII/Content/Blueprint/enemy_AI_BP/BP_TASK_GO_TO_PLAYER.uasset",
 				"C:/Users/Long/OneDrive/Desktop/D/Spring2023/CPSC 491/proj/ProjectTypopatmus2/ProjectTypopatamusII/Content/StarterContent/Maps/Advanced_Lighting_BuiltData.uasset",
 				"C:/Users/Long/OneDrive/Desktop/D/Spring2023/CPSC 491/proj/ProjectTypopatmus2/ProjectTypopatamusII/Content/Assets/PolarBear.uasset",
 				"C:/Users/Long/OneDrive/Desktop/D/Spring2023/CPSC 491/proj/ProjectTypopatmus2/ProjectTypopatamusII/Content/Assets/Untitled_002.uasset",
@@ -39,7 +40,9 @@
 				"C:/Users/Long/OneDrive/Desktop/D/Spring2023/CPSC 491/proj/ProjectTypopatmus2/ProjectTypopatamusII/Content/Assets/Untitled_017.uasset",
 				"C:/Users/Long/OneDrive/Desktop/D/Spring2023/CPSC 491/proj/ProjectTypopatmus2/ProjectTypopatamusII/Content/Assets/Untitled_018.uasset",
 				"C:/Users/Long/OneDrive/Desktop/D/Spring2023/CPSC 491/proj/ProjectTypopatmus2/ProjectTypopatamusII/Content/Assets/Untitled_019.uasset",
-				"C:/Users/Long/OneDrive/Desktop/D/Spring2023/CPSC 491/proj/ProjectTypopatmus2/ProjectTypopatamusII/Content/Assets/BrowBear.uasset"
+				"C:/Users/Long/OneDrive/Desktop/D/Spring2023/CPSC 491/proj/ProjectTypopatmus2/ProjectTypopatamusII/Content/Assets/BrowBear.uasset",
+				"C:/Users/Long/OneDrive/Desktop/D/Spring2023/CPSC 491/proj/ProjectTypopatamus/ProjectTypopatamusII/Content/MainMenu.umap",
+				"C:/Users/Long/OneDrive/Desktop/D/Spring2023/CPSC 491/proj/ProjectTypopatamus/ProjectTypopatamusII/Content/Blueprint/WBP_MainMenu.uasset"
 			]
 		}
 	]
